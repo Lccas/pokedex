@@ -1,0 +1,14 @@
+.HeaderBox{
+    background-image: linear-gradient(to right, #D41717, #C80532) !important;
+}
+
+.LinkPokeball {
+    margin-right: 1%;
+}
+
+@media (max-width: 600px){
+    .LinkPokeball, 
+    .PokeballImage{
+        display: none;
+    }
+}
