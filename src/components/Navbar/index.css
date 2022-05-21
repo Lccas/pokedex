@@ -1,0 +1,9 @@
+.header{
+    background-image: linear-gradient(to right, #D41717, #C80540) !important;
+    display: flex;
+    justify-content: center;
+}
+
+.linkPokeball {
+    margin-right: 1%;
+}
