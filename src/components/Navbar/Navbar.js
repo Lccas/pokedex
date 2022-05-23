@@ -7,7 +7,7 @@ function Navbar() {
     return(
         <AppBar position='static'>
         <Toolbar className="header">
-            <a href="#" className='linkPokeball'>
+            <a href="/" className='linkPokeball'>
                 <img src={pokeball} height={45} width={45} alt="pokeball" className='pokeballImage'/>
             </a>
             <Typography variant="h5" component="div" className="headerTitle">
