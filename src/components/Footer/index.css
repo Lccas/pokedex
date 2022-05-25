@@ -1,0 +1,17 @@
+.footerBox {
+    background-color: #D41717;
+    color: white;
+}
+
+.footerContainer{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.githubIcon,
+.instagramIcon,
+.linkedinIcon {
+    font-size: 46px !important;
+    color: white;
+}
